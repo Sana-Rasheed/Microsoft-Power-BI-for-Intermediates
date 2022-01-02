@@ -1,4 +1,4 @@
-# Microsoft-Power-BI-for-Intermediates
+# Microsoft Power BI for Intermediates
 ## Learn to create beautiful visualisation with No-code.
 
 ### Authors: Sana Rasheed & Zeeshan-ul-hassan Usmani
